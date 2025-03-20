@@ -6,6 +6,7 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Mar 18, 2025   | [DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding](https://arxiv.org/abs/2503.12797) | [Github](https://github.com/thunlp/DeepPerception)        |
 | Mar 17, 2025   | [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | [GitHub](https://github.com/jingyi0000/R1-VL)             |
 | Mar 13, 2025   | [R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://arxiv.org/abs/2503.10615)                       | [GitHub](https://github.com/Fancy-MLLM/R1-onevision)      |
 | Mar 10, 2025   | [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536)                       | [GitHub](https://github.com/TideDra/lmm-r1)               |
@@ -22,3 +23,7 @@ This repository maintains a curated and updated collection of research papers an
 - [VLM-R1: A stable and generalizable R1-style Large Vision-Language Model](https://github.com/om-ai-lab/VLM-R1)
 - [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3](https://github.com/Deep-Agent/R1-V)
 - [Multimodal Open R1](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+
+
+## Surveys
+- [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)
