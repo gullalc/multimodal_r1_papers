@@ -6,6 +6,7 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Mar 23, 2025 | [Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning](https://arxiv.org/abs/2503.18013) | [Github](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1) |
 | Mar 21, 2025 | [OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement](https://arxiv.org/abs/2503.17352) | [Github](https://github.com/yihedeng9/OpenVLThinker) | 
 | Mar 18, 2025 | [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558)                                                | [Github](https://github.com/nvidia-cosmos/cosmos-reason1)  |
 | Mar 18, 2025   | [DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding](https://arxiv.org/abs/2503.12797) | [Github](https://github.com/thunlp/DeepPerception)        |
