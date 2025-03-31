@@ -30,4 +30,5 @@ This repository maintains a curated and updated collection of research papers an
 
 
 ## Surveys
+- [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) | [Github](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)
