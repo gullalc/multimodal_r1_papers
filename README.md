@@ -6,6 +6,12 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Apr 3, 2025  | [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://arxiv.org/abs/2504.02587)  | [Github](https://github.com/GAIR-NLP/MAYE)  |
+| Apr 1, 2025  | [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/abs/2504.00883)  | [Github](https://github.com/zhijie-group/R1-Zero-VSI) |
+| Apr 1, 2025  | [Think or Not Think: A Study of Explicit Thinking inRule-Based Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.16188)  | [Github](https://github.com/minglllli/CLS-RL)  |
+| Mar 31, 2025  | [Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](https://arxiv.org/abs/2503.24376)  | [Github](https://github.com/TencentARC/SEED-Bench-R1)  |
+| Mar 28, 2025   | [OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning](https://arxiv.org/abs/2503.16081)  | - |
+| Mar 27, 2025  | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning](https://arxiv.org/abs/2503.20752)  | [Github](https://github.com/tanhuajie/Reason-RFT)  |
 | Mar 27, 2025   | [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/abs/2503.21776)                                                                   | [Github](https://github.com/tulerfeng/Video-R1)          |
 | Mar 23, 2025   | [Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning](https://arxiv.org/abs/2503.18013) | [Github](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1) |
 | Mar 21, 2025   | [OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement](https://arxiv.org/abs/2503.17352) | [Github](https://github.com/yihedeng9/OpenVLThinker) | 
