@@ -6,6 +6,9 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Apr 10, 2025  |  [VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning](https://arxiv.org/abs/2504.07956)                            |  [Github](https://github.com/zhishuifeiqian/VCR-Bench)  |
+| Apr 9, 2025 | [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.06958)                                   |  [Github](https://github.com/OpenGVLab/VideoChat-R1)  |
+| Apr 8, 2025  | [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)                                                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
 | Apr 3, 2025  | [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://arxiv.org/abs/2504.02587)  | [Github](https://github.com/GAIR-NLP/MAYE)  |
 | Apr 1, 2025  | [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/abs/2504.00883)  | [Github](https://github.com/zhijie-group/R1-Zero-VSI) |
 | Apr 1, 2025  | [Think or Not Think: A Study of Explicit Thinking inRule-Based Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.16188)  | [Github](https://github.com/minglllli/CLS-RL)  |
@@ -36,5 +39,6 @@ This repository maintains a curated and updated collection of research papers an
 
 
 ## Surveys
+- [Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)](https://arxiv.org/abs/2504.03151)
 - [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) | [Github](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504) | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)
