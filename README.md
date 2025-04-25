@@ -6,6 +6,13 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Apr 21, 2025  |  [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/abs/2504.15271)  |  [Github](https://github.com/NVlabs/EAGLE)  |
+| Apr 21, 2025  |  [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279)  |  [Github](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval)  |
+| Apr 14, 2025  |  [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479)  |  [Github](https://github.com/OpenGVLab/InternVL)  |
+| Apr 13, 2025  |  [TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning](https://arxiv.org/abs/2504.09641)  |  [Github](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)  |
+| Apr 10, 2025  |  [VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837)  |  [Github](https://github.com/TIGER-AI-Lab/VL-Rethinker/)  |
+| Apr 10, 2025  |  [SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://arxiv.org/abs/2504.11468)  |  -  |
+| Apr 10, 2025  |  [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/abs/2504.07615)  |  [Github](https://github.com/om-ai-lab/VLM-R1)  |
 | Apr 10, 2025  |  [VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning](https://arxiv.org/abs/2504.07956)                            |  [Github](https://github.com/zhishuifeiqian/VCR-Bench)  |
 | Apr 9, 2025 | [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.06958)                                   |  [Github](https://github.com/OpenGVLab/VideoChat-R1)  |
 | Apr 8, 2025  | [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)                                                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
@@ -33,7 +40,6 @@ This repository maintains a curated and updated collection of research papers an
 | Feb 20, 2025   | [AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO](https://arxiv.org/abs/2502.14669)                                        | [GitHub](https://github.com/menloresearch/visual-thinker) |
 
 ## Repositories Only
-- [VLM-R1: A stable and generalizable R1-style Large Vision-Language Model](https://github.com/om-ai-lab/VLM-R1)
 - [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3](https://github.com/Deep-Agent/R1-V)
 - [Multimodal Open R1](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
 
