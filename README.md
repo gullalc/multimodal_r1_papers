@@ -6,6 +6,7 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Apr 23, 2025  |  [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656)                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
 | Apr 21, 2025  |  [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/abs/2504.15271)  |  [Github](https://github.com/NVlabs/EAGLE)  |
 | Apr 21, 2025  |  [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279)  |  [Github](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval)  |
 | Apr 14, 2025  |  [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479)  |  [Github](https://github.com/OpenGVLab/InternVL)  |
@@ -45,6 +46,7 @@ This repository maintains a curated and updated collection of research papers an
 
 
 ## Surveys
+- [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551)
 - [Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)](https://arxiv.org/abs/2504.03151)
 - [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) | [Github](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504) | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)
