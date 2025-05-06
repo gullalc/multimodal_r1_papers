@@ -6,6 +6,7 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| May 5, 2025   |  [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835)   |  [Github](https://github.com/yfzhang114/r1_reward)   |
 | Apr 23, 2025  |  [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656)                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
 | Apr 21, 2025  |  [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/abs/2504.15271)  |  [Github](https://github.com/NVlabs/EAGLE)  |
 | Apr 21, 2025  |  [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279)  |  [Github](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval)  |
