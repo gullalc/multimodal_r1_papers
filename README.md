@@ -6,6 +6,9 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| May 12, 2025  |  [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818)                                     |  [Github](https://github.com/XueZeyue/DanceGRPO)  |
+| May 6, 2025   |  [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981)           |  [Github](https://github.com/microsoft/x-reasoner)  |
+| May 6, 2025   |  [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318)  |  [Github](https://github.com/CodeGoat24/UnifiedReward)  |
 | May 5, 2025   |  [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835)   |  [Github](https://github.com/yfzhang114/r1_reward)   |
 | Apr 23, 2025  |  [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656)                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
 | Apr 21, 2025  |  [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/abs/2504.15271)  |  [Github](https://github.com/NVlabs/EAGLE)  |
@@ -47,6 +50,8 @@ This repository maintains a curated and updated collection of research papers an
 
 
 ## Surveys
+- [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
+- [Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2505.02567)
 - [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551)
 - [Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)](https://arxiv.org/abs/2504.03151)
 - [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) | [Github](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
