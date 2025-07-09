@@ -6,7 +6,29 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| June 16, 2025  | [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  | [Github](https://github.com/egolife-ai/Ego-R1)  |
+| June 4, 2025  |  [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/abs/2506.04207)  |  [Github](https://github.com/CSfufu/Revisual-R1)  |
+| June 4, 2025  |  [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)  |  [Github](https://github.com/Zhoues/RoboRefer)  |
+| June 4, 2025  |  [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)  |  [Github](https://github.com/XiaomiMiMo/MiMo-VL)  |
+| June 2, 2025  |  [SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis](https://arxiv.org/abs/2506.02096)  |  [Github](https://github.com/NUS-TRAIL/SynthRL)  |
+| June 2, 2025  |  [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://arxiv.org/abs/2506.01713)  |  [Github](https://github.com/SUSTechBruce/SRPO_MLLMs)  |
+| May 29, 2025  |  [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  |  [Github](https://github.com/diankun-wu/Spatial-MLLM)  |
+| May 28, 2025  |  [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453)  |  [Github](https://github.com/waltonfuture/MM-UPT)  |
+| May 28, 2025  |  [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334)  |  [Github](https://github.com/waltonfuture/RL-with-Cold-Start)  |
+| May 27, 2025  |  [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327)  |  [Github](https://github.com/Alpha-Innovator/MME-Reasoning)  |
+| May 26, 2025  |  [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966)  |  [Github](https://tiger-ai-lab.github.io/Pixel-Reasoner/)  |
+| May 24, 2025  |  [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://arxiv.org/abs/2505.18536)  |  [Github](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)  |
+| May 22, 2025  |  [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022)  |  [Github](https://github.com/gogoduan/GoT-R1)  |
+| May 22, 2025  |  [VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192)  |  -  |
+| May 22, 2025  |  [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018)  |  [Github](https://github.com/kxfan2002/SophiaVL-R1)  |
+| May 20, 2025  |  [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.14677)  |  [Github](https://github.com/maifoundations/Visionary-R1)  |
+| May 20, 2025  |  [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231)  |  [Github](https://github.com/AMAP-ML/UniVG-R1)  |
+| May 20, 2025  |  [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460)  |  [Github](https://github.com/TianheWu/VisualQuality-R1)  |
+| May 20, 2025  |  [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246)  |  [Github](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)  |
+| May 17, 2025  |  [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081)  | [Github](https://github.com/dvlab-research/VisionReasoner)  |
+| May 16, 2025  |  [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049)                                     |  - |
 | May 12, 2025  |  [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818)                                     |  [Github](https://github.com/XueZeyue/DanceGRPO)  |
+| May 11, 2025  |  [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062)      |  [Github](https://github.com/ByteDance-Seed/Seed1.5-VL)  |
 | May 6, 2025   |  [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981)           |  [Github](https://github.com/microsoft/x-reasoner)  |
 | May 6, 2025   |  [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318)  |  [Github](https://github.com/CodeGoat24/UnifiedReward)  |
 | May 5, 2025   |  [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835)   |  [Github](https://github.com/yfzhang114/r1_reward)   |
