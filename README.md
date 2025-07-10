@@ -6,7 +6,19 @@ This repository maintains a curated and updated collection of research papers an
 
 | Date           | Paper                                                                                                                                               | Repository                                                |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| July 2, 2025  | [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)  | [Github](https://github.com/Kwai-Keye/Keye)  |
+| July 1, 2025  | [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)  | [Github](https://github.com/THUDM/GLM-4.1V-Thinking)  |
+| June 28, 2025  | [Listener-Rewarded Thinking in VLMs for Image Preferences](https://arxiv.org/abs/2506.22832)  | -  |
+| June 27, 2025  | [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434)  | -  |
+| June 25, 2025  | [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  |
+| June 20, 2025  | [Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?](https://arxiv.org/abs/2506.17417)  | -  |
+| June 20, 2025  | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)  | [Github](https://github.com/UMass-Embodied-AGI/Mirage)  |
+| June 20, 2025  | [Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs](https://arxiv.org/abs/2506.16962)  | [Github](https://github.com/manglu097/Chiron-o1)  |
+| June 19, 2025  | [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning](https://arxiv.org/abs/2506.16141)  | [Github](https://github.com/TencentARC/GRPO-CARE)  |
 | June 16, 2025  | [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  | [Github](https://github.com/egolife-ai/Ego-R1)  |
+| June 11, 2025  | [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs](https://arxiv.org/abs/2506.10128)  | [Github](https://github.com/si0wang/ViCrit)  |
+| June 10, 2025  | [VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049)  | [Github](https://github.com/MARS-EAI/VIKI-R)  |
+| June 9, 2025  |  [DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/abs/2506.07464)  |  [Github](https://github.com/mlvlab/DeepVideoR1)  |
 | June 4, 2025  |  [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/abs/2506.04207)  |  [Github](https://github.com/CSfufu/Revisual-R1)  |
 | June 4, 2025  |  [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)  |  [Github](https://github.com/Zhoues/RoboRefer)  |
 | June 4, 2025  |  [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)  |  [Github](https://github.com/XiaomiMiMo/MiMo-VL)  |
@@ -72,6 +84,7 @@ This repository maintains a curated and updated collection of research papers an
 
 
 ## Surveys
+- [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/abs/2506.23918)
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 - [Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2505.02567)
 - [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551)
