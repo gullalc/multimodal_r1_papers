@@ -10,6 +10,7 @@ This repository maintains a curated and updated collection of research papers an
 | July 1, 2025  | [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)  | [Github](https://github.com/THUDM/GLM-4.1V-Thinking)  |
 | June 28, 2025  | [Listener-Rewarded Thinking in VLMs for Image Preferences](https://arxiv.org/abs/2506.22832)  | -  |
 | June 27, 2025  | [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434)  | -  |
+| June 26, 2025  | [ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models](https://arxiv.org/abs/2506.21356)  | [Github](https://github.com/Vchitect/ShotBench/tree/main)  |
 | June 25, 2025  | [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  | [Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  |
 | June 20, 2025  | [Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?](https://arxiv.org/abs/2506.17417)  | -  |
 | June 20, 2025  | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)  | [Github](https://github.com/UMass-Embodied-AGI/Mirage)  |
