@@ -29,7 +29,7 @@ This repository maintains a curated and updated collection of research papers an
 | May 28, 2025  |  [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453)  |  [Github](https://github.com/waltonfuture/MM-UPT)  |
 | May 28, 2025  |  [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334)  |  [Github](https://github.com/waltonfuture/RL-with-Cold-Start)  |
 | May 27, 2025  |  [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327)  |  [Github](https://github.com/Alpha-Innovator/MME-Reasoning)  |
-| May 26, 2025  |  [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966)  |  [Github](https://tiger-ai-lab.github.io/Pixel-Reasoner/)  |
+| May 26, 2025  |  [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966)  |  [Github](https://github.com/tiger-ai-lab.github.io/Pixel-Reasoner/)  |
 | May 24, 2025  |  [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://arxiv.org/abs/2505.18536)  |  [Github](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)  |
 | May 22, 2025  |  [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022)  |  [Github](https://github.com/gogoduan/GoT-R1)  |
 | May 22, 2025  |  [VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192)  |  -  |
@@ -58,7 +58,7 @@ This repository maintains a curated and updated collection of research papers an
 | Apr 8, 2025  | [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)                                                |  [Github](https://github.com/SkyworkAI/Skywork-R1V)  |
 | Apr 3, 2025  | [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://arxiv.org/abs/2504.02587)  | [Github](https://github.com/GAIR-NLP/MAYE)  |
 | Apr 1, 2025  | [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/abs/2504.00883)  | [Github](https://github.com/zhijie-group/R1-Zero-VSI) |
-| Apr 1, 2025  | [Think or Not Think: A Study of Explicit Thinking inRule-Based Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.16188)  | [Github](https://github.com/minglllli/CLS-RL)  |
+| Apr 1, 2025  | [Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.16188)  | [Github](https://github.com/minglllli/CLS-RL)  |
 | Mar 31, 2025  | [Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](https://arxiv.org/abs/2503.24376)  | [Github](https://github.com/TencentARC/SEED-Bench-R1)  |
 | Mar 28, 2025   | [OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning](https://arxiv.org/abs/2503.16081)  | - |
 | Mar 27, 2025  | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning](https://arxiv.org/abs/2503.20752)  | [Github](https://github.com/tanhuajie/Reason-RFT)  |
